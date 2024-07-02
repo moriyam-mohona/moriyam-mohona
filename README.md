@@ -1,4 +1,4 @@
-# Hi there! 👋
+https://github.com/moriyam-mohona/moriyam-mohona/assets/107867015/57e4b954-2ea5-4a80-83a5-dff31d29e002
 
 I'm a passionate Front-End Developer with a knack for creating responsive, user-friendly websites. With a strong foundation in HTML, CSS, and JavaScript, I enjoy bringing designs to life and ensuring seamless user experiences. I also have a keen eye for graphic design, which helps me enhance the visual appeal of my projects.
 
