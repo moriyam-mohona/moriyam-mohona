@@ -71,16 +71,17 @@ Check out my repositories to see some of the projects I've worked on. Feel free 
 
 
 ## 📊 Stats and Contributions
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moriyam-mohona&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="moriyam-mohona" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=moriyam-mohona&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="moriyam-mohona" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moriyam-mohona&theme=vue-dark&hide_border=true" alt="moriyam-mohona" />
+</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moriyam-mohona&show_icons=true&locale=en&layout=compact" alt="moriyam-mohona" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moriyam-mohona&show_icons=true&locale=en" alt="moriyam-mohona" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moriyam-mohona&" alt="moriyam-mohona" />
-</p>
+
 
 ## 🖋️ Profile Views:
 <p align="center"> 
