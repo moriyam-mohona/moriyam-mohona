@@ -1,4 +1,3 @@
-<img src="https://github.com/moriyam-mohona/moriyam-mohona/assets/107867015/dbae23d4-31fc-4102-90a5-6f3bcb5b8ee6" alt="Banner image" style="width: 100%;">
 <h1 align="center">I'm Moriyam Mohona</h1>
 <h3 align="center">A Passionate Frontend Developer</h3>
 <p align="center">
