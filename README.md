@@ -1,5 +1,5 @@
 <a href="">
-  <img src="https://raw.githubusercontent.com/moriyam-mohona/moriyam-mohona/main/cover.mp4" alt="cover" />
+  <img src="https://i.ibb.co.com/bJtrrsM/cover.png" alt="cover" />
 </a>
 
 <br/>
