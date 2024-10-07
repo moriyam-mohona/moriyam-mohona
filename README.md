@@ -1,3 +1,8 @@
+<a href="https://www.canva.com/design/DAGS5mN2l4I/ieW-Gmqt_FzpL7y7_kqEYw/watch?utm_content=DAGS5mN2l4I&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank">
+  <img src="" alt="Watch the video" width="500" />
+</a>
+<br/>
+<br/>
 <p>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2DBA4E&random=false&width=435&height=40&lines=Hi%2C+I'm+Moriyam+Mohona;A+Passionate+ Frontend+Developer" alt="Typing SVG" />
 </p>
