@@ -1,5 +1,5 @@
 <a href="">
-  <img src="https://www.canva.com/design/DAGS5mN2l4I/c1niv2RqdmhM8xluSWyEIA/watch" alt="cover" />
+  <img src="https://raw.githubusercontent.com/moriyam-mohona/moriyam-mohona/main/cover.mp4" alt="cover" />
 </a>
 
 <br/>
