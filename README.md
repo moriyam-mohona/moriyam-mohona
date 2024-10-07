@@ -1,4 +1,4 @@
-(https://i.ibb.co.com/bJtrrsM/cover.png)
+![I am GitHub Readme Generator's creator](https://i.ibb.co.com/bJtrrsM/cover.png)
 <p>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=42b883&random=false&width=435&height=40&lines=Hi%2C+I'm+Moriyam+Mohona;A+Passionate+ Frontend+Developer" alt="Typing SVG" />
 </p>
