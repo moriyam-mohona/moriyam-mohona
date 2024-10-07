@@ -1,5 +1,5 @@
 <p>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=93C572&random=false&width=435&height=40&lines=Hi%2C+I'm+Moriyam+Mohona;A+Passionate+ Frontend+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=74C365&random=false&width=435&height=40&lines=Hi%2C+I'm+Moriyam+Mohona;A+Passionate+ Frontend+Developer" alt="Typing SVG" />
 </p>
 <p">
 I'm a Front-End Developer with a knack for creating responsive, user-friendly websites. With a strong foundation in HTML, CSS, and JavaScript, I enjoy bringing designs to life and ensuring seamless user experiences. My keen eye for graphic design helps enhance the visual appeal of my projects.
