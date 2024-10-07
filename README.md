@@ -1,6 +1,7 @@
-<a href="https://www.canva.com/design/DAGS5mN2l4I/ieW-Gmqt_FzpL7y7_kqEYw/watch?utm_content=DAGS5mN2l4I&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank">
-  <img src="" alt="Watch the video" width="500" />
+<a href="">
+  <img src="https://www.canva.com/design/DAGS5mN2l4I/c1niv2RqdmhM8xluSWyEIA/watch" alt="cover" />
 </a>
+
 <br/>
 <br/>
 <p>
