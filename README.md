@@ -6,23 +6,19 @@ I'm a Front-End Developer with a knack for creating responsive, user-friendly we
 </p>
 
 
-## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHRvNzBiM29wMW9kN3ZuZWoxYjl4cm51eXJqdGdqMGdiYmJ5cmVwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oOylMv2oLDxcxGzYn6/giphy.gif" width ="25"> Technologies & Tools
+## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHRvNzBiM29wMW9kN3ZuZWoxYjl4cm51eXJqdGdqMGdiYmJ5cmVwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oOylMv2oLDxcxGzYn6/giphy.gif" width ="35"> Technologies & Tools
 - **Front-End Development**: HTML, CSS, JavaScript, React
 - **Back-End Development**: NodeJs, ExpressJs
 - **DataBase**: MongoDB 
 - **Graphic Design**: Adobe Photoshop, Illustrator, Figma
 - **Others**: Git, GitHub, VSCode
 
-## 🌱 Currently Learning:
+## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDB6cnR5Mmdjc2F5YzJ1ZmppN2c3anRkOThiYjhpajc5ZnIxOTFsMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fjOdkUskrUGyOZTHhQ/giphy.gif" width ="35">  Currently Learning
 - Advanced JavaScript frameworks
 - Enhanced UI/UX design principles
 
-## 🌟 What I Enjoy:
-- Turning complex problems into simple, beautiful, and intuitive designs
-- Collaborating with others on innovative projects
-- Continuously learning and staying updated with the latest industry trends
 
-## 🚀 Projects:
+## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25"> Projects:
 Check out my repositories to see some of the projects I've worked on. Feel free to fork them, open issues, and submit pull requests!
 
 
