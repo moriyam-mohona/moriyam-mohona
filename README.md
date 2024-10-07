@@ -6,7 +6,7 @@ I'm a Front-End Developer with a knack for creating responsive, user-friendly we
 </p>
 
 
-## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHRvNzBiM29wMW9kN3ZuZWoxYjl4cm51eXJqdGdqMGdiYmJ5cmVwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oOylMv2oLDxcxGzYn6/giphy.gif" width ="40"> Technologies & Tools
+## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc29jd3dyM3I4bTA2bGhtOXgzejdsd2ptd3BidHZ0eGJuNXl0OGRlZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width ="25"> Technologies & Tools
 - **Front-End Development**: HTML, CSS, JavaScript, React
 - **Back-End Development**: NodeJs, ExpressJs
 - **DataBase**: MongoDB 
