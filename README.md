@@ -1,6 +1,4 @@
-<a href="">
-  <img src="https://i.ibb.co.com/bJtrrsM/cover.png" alt="cover" />
-</a>
+![I am GitHub Readme Generator's creator](https://i.ibb.co.com/bJtrrsM/cover.png)
 
 <br/>
 <br/>
