@@ -29,14 +29,13 @@ Check out my repositories to see some of the projects I've worked on. Feel free 
 <br>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind" />
     <br>
-    <img src="https://skillicons.dev/icons?i=mongodb,nodejs,express,firebase,materialui" />
+    <img src="https://skillicons.dev/icons?i=react,mongodb,nodejs,express,firebase" />
     <br>
     <img src="https://skillicons.dev/icons?i=git,github,netlify,vercel,vite" />
 </p>
 <br>
-</br></br></br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Stats and Contributions
 
