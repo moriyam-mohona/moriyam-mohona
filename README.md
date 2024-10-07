@@ -44,5 +44,5 @@ Check out my repositories to see some of the projects I've worked on. Feel free 
 
 ## 🖋️ Profile Views:
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=moriyam-mohona&label=Profile%20views&color=0e75b6&style=flat" alt="moriyam-mohona"height="30"/>
+  <img src="https://komarev.com/ghpvc/?username=moriyam-mohona&label=Profile%20views&color=2DBA4E&style=flat" alt="moriyam-mohona"height="30"/>
 </p>
