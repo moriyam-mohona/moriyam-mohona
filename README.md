@@ -1,11 +1,11 @@
 ![I am GitHub Readme Generator's creator](https://i.ibb.co.com/bJtrrsM/cover.png)
+<br/>
 <p>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=42b883&random=false&width=435&height=40&lines=Hi%2C+I'm+Moriyam+Mohona;A+Passionate+ Frontend+Developer" alt="Typing SVG" />
 </p>
-<p">
+<p>
 I'm a Front-End Developer with a knack for creating responsive, user-friendly websites. With a strong foundation in HTML, CSS, and JavaScript, I enjoy bringing designs to life and ensuring seamless user experiences. My keen eye for graphic design helps enhance the visual appeal of my projects.
 </p>
-
 
 ## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc29jd3dyM3I4bTA2bGhtOXgzejdsd2ptd3BidHZ0eGJuNXl0OGRlZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width ="25"> Technologies & Tools
 - **Front-End Development**: HTML, CSS, JavaScript, React
