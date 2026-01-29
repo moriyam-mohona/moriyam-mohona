@@ -39,7 +39,8 @@ Check out my repositories to see some of the projects I've worked on. Feel free 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Stats and Contributions
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moriyam-mohona&theme=vue-dark&hide_border=true" alt="moriyam-mohona" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=moriyam-mohona&theme=vue-dark&hide_border=true" alt="moriyam-mohona" /> -->
+  <img src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=moriyam-mohona&theme=monokai)](https://git.io/streak-stats)" alt="moriyam-mohona" />
 </p>
 
 
