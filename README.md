@@ -2,7 +2,7 @@
 <br/>
 <br/>
 <p>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=42b883&random=false&width=435&height=40&lines=Hi%2C+I'm+Moriyam+Mohona;A+Passionate+ Frontend+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=42b883&random=false&width=435&height=40&lines=Hi%2C+I'm+Moriyam+Mohona;A+Passionate+Frontend+Developer" alt="Typing SVG" />
 </p>
 <p>
 I'm a Front-End Developer with a knack for creating responsive, user-friendly websites. With a strong foundation in HTML, CSS, and JavaScript, I enjoy bringing designs to life and ensuring seamless user experiences. My keen eye for graphic design helps enhance the visual appeal of my projects.
@@ -52,8 +52,13 @@ Check out my repositories to see some of the projects I've worked on. Feel free 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Stats and Contributions
 
 <p align="center">
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=moriyam-mohona&theme=vue-dark&hide_border=true" alt="moriyam-mohona" /> -->
-  <img src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=moriyam-mohona&theme=monokai)](https://git.io/streak-stats)" alt="moriyam-mohona" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moriyam-mohona&theme=vue-dark&hide_border=true" alt="moriyam-mohona" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=moriyam-mohona&show_icons=true&theme=vue-dark&hide_border=true" alt="moriyam-mohona" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moriyam-mohona&layout=compact&theme=vue-dark&hide_border=true" alt="moriyam-mohona" />
 </p>
 
 
