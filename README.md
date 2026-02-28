@@ -5,7 +5,11 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=42b883&random=false&width=435&height=40&lines=Hi%2C+I'm+Moriyam+Mohona;A+Passionate+Frontend+Developer" alt="Typing SVG" />
 </p>
 <p>
-I'm a Full-Stack Developer with 1.5+ years of experience building modern, production-ready web applications — from pixel-perfect frontends to scalable backend systems. I enjoy turning ideas into real, impactful digital products with clean code and thoughtful architecture.
+🚀 I'm a <strong>Full-Stack Developer</strong> with <strong>1.5+ years</strong> of hands-on experience crafting modern, production-ready web applications — from pixel-perfect, responsive frontends to robust, scalable backend systems.
+<br><br>
+💡 What drives me? Turning ideas into real, impactful digital products. I care deeply about clean architecture, performance, and writing code that doesn't just work today — but scales tomorrow.
+<br><br>
+📈 Currently leveling up in <strong>System Design</strong> and <strong>problem-solving</strong> — thinking less like a coder and more like a <strong>software engineer</strong>.
 </p>
 
 ## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc29jd3dyM3I4bTA2bGhtOXgzejdsd2ptd3BidHZ0eGJuNXl0OGRlZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width ="25"> Tech Stack & Skills
@@ -43,13 +47,17 @@ Check out my repositories to see some of the projects I've worked on. Feel free 
 <br>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=tailwind,react,nextjs,redux,socketio" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=vercel,netlify,vscode,postman,figma,git,github" />
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+  <br>
+  <!-- Frontend Frameworks -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,socketio" />
+  <br>
+  <!-- Backend & Database -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma" />
+  <br>
+  <!-- Tools & Deployment -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,netlify" />
 </p>
 <br>
 
@@ -59,10 +67,7 @@ Check out my repositories to see some of the projects I've worked on. Feel free 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=moriyam-mohona&theme=vue-dark&hide_border=true" alt="moriyam-mohona" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moriyam-mohona&show_icons=true&theme=vue-dark&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moriyam-mohona&layout=compact&theme=vue-dark&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moriyam-mohona&theme=vue" alt="GitHub Stats"/>
 </p>
 
 
