@@ -12,14 +12,19 @@ I'm a Front-End Developer with a knack for creating responsive, user-friendly we
 
 **🖥️ Frontend**
 HTML • CSS • JavaScript • TypeScript • React.js • Next.js • Redux • TanStack Query • Tailwind CSS • Framer Motion • GSAP
+
 **⚙️ Backend**
 Node.js • Express.js • REST API • JWT • NextAuth • Firebase • Socket.io
+
 **🗄️ Database & ORM**
 MongoDB • PostgreSQL • Prisma • Mongoose
+
 **🎨 Design & UI**
 Figma • Adobe Photoshop • Adobe Illustrator
+
 **🛠️ Dev Tools**
 Git • GitHub • VS Code • Postman • Vercel • Netlify
+
 **🔍 Exploring**
 System Design • Distributed Systems • AWS
 
