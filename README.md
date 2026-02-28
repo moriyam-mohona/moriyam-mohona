@@ -59,10 +59,10 @@ Check out my repositories to see some of the projects I've worked on. Feel free 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=moriyam-mohona&theme=vue-dark&hide_border=true" alt="moriyam-mohona" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moriyam-mohona&show_icons=true&theme=vue-dark&hide_border=true" alt="moriyam-mohona" />
+  <img src="https://github-readme-stats.vercel.app/api?username=moriyam-mohona&show_icons=true&theme=vue-dark&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moriyam-mohona&layout=compact&theme=vue-dark&hide_border=true" alt="moriyam-mohona" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moriyam-mohona&layout=compact&theme=vue-dark&hide_border=true&cache_seconds=86400" alt="Top Languages" />
 </p>
 
 
