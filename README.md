@@ -41,11 +41,13 @@ Check out my repositories to see some of the projects I've worked on. Feel free 
 <br>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react" />
     <br>
-    <img src="https://skillicons.dev/icons?i=react,mongodb,nodejs,express,firebase" />
+    <img src="https://skillicons.dev/icons?i=nextjs,redux,nodejs,express,firebase,socketio" />
     <br>
-    <img src="https://skillicons.dev/icons?i=git,github,netlify,vercel,vite" />
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma,figma,git,github" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=vercel,netlify,vscode,postman,ps,illustrator" />
 </p>
 <br>
 
