@@ -1,15 +1,17 @@
-![I am GitHub Readme Generator's creator](https://i.ibb.co.com/bJtrrsM/cover.png)
+![I am GitHub Readme Generator's creator]([https://i.ibb.co.com/bJtrrsM/cover.png](https://ibb.co.com/W4rN7MGt))
 <br/>
 <br/>
 <p>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=42b883&random=false&width=435&height=40&lines=Hi%2C+I'm+Moriyam+Mohona;A+Passionate+Frontend+Developer" alt="Typing SVG" />
 </p>
-<p>
-🚀 I'm a <strong>Full-Stack Developer</strong> with <strong>1.5+ years</strong> of hands-on experience crafting modern, production-ready web applications — from pixel-perfect, responsive frontends to robust, scalable backend systems.
-<br><br>
-💡 What drives me? Turning ideas into real, impactful digital products. I care deeply about clean architecture, performance, and writing code that doesn't just work today — but scales tomorrow.
-<br><br>
-📈 Currently leveling up in <strong>System Design</strong> and <strong>problem-solving</strong> — thinking less like a coder and more like a <strong>software engineer</strong>.
+<p align="center">
+Started with pure curiosity — just a desire to see code come alive on screen. 
+This space is a living record of that journey — from writing the very first lines of HTML 
+to shipping real, production-ready web applications. Every project, every bug, every late night, 
+every breakthrough is part of the story. Went deep into frontend, then crossed over to the backend, 
+slowly connecting the dots — APIs, databases, architecture — understanding how the web truly works 
+under the hood. What started as curiosity became a craft. And the journey is far from over — 
+Every day brings something new to learn, something new to build, and another chance to grow. 🚀
 </p>
 
 ## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc29jd3dyM3I4bTA2bGhtOXgzejdsd2ptd3BidHZ0eGJuNXl0OGRlZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width ="25"> Tech Stack & Skills
