@@ -1,3 +1,45 @@
+<!-- Typing Intro -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=42b883&random=false&width=500&height=40&lines=Hi%2C+I'm+Moriyam+Mohona+%F0%9F%91%8B;Frontend-heavy+Full-Stack+Developer;I+build+things+for+the+web." alt="Typing SVG" />
+</div>
+
+<br/>
+<!-- Story Section -->
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="55%" valign="top">
+
+▸ Started with HTML & CSS — just wanting to see
+  something appear on a screen.
+
+▸ Fell in love with the frontend — layouts, animations,
+  making things feel just right.
+
+▸ Then curiosity pushed further — "how does data get here?"
+  Dove into APIs, databases, backend logic.
+
+▸ Now I connect both worlds — building full products,
+  from pixel to server, end to end.
+
+▸ The pattern? Start curious. Break things.
+  Understand deeply. Build better.
+</td>
+    <td width="5%"></td>
+    <td width="40%" valign="top" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="100%"/>
+      <br/><br/>
+      <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Graph"/>
+</div>
+
+
+
 <p>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=42b883&random=false&width=435&height=40&lines=Hi%2C+I'm+Moriyam+Mohona;A+Passionate+Frontend+Developer" alt="Typing SVG" />
 </p>
