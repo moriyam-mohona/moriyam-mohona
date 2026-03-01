@@ -39,20 +39,47 @@ From curiosity-driven beginnings to delivering production-ready applications, I 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Tech Stack
 
-**🖥️ Frontend**  
-HTML • CSS • JavaScript • TypeScript • React.js • Next.js • Redux • TanStack Query • Tailwind CSS • Framer Motion • GSAP
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-42B883?style=for-the-badge&logo=webcomponents.org&logoColor=white" alt="Frontend" />
+  <img src="https://img.shields.io/badge/Backend-42B883?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Backend" />
+  <img src="https://img.shields.io/badge/Database-42B883?style=for-the-badge&logo=postgresql&logoColor=white" alt="Database" />
+  <img src="https://img.shields.io/badge/Dev%20Tools-42B883?style=for-the-badge&logo=git&logoColor=white" alt="Dev Tools" />
+</p>
 
-**⚙️ Backend**  
-Node.js • Express.js • REST API • JWT • NextAuth • Firebase • Socket.io
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-1F2937?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1F2937?style=for-the-badge&logo=css&logoColor=1572B6" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-1F2937?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-1F2937?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-1F2937?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-1F2937?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Redux-1F2937?style=for-the-badge&logo=redux&logoColor=764ABC" alt="Redux" />
+  <img src="https://img.shields.io/badge/TanStack%20Query-1F2937?style=for-the-badge&logo=reactquery&logoColor=FF4154" alt="TanStack Query" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-1F2937?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
+</p>
 
-**🗄️ Database & ORM**  
-MongoDB • PostgreSQL • Prisma • Mongoose
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-1F2937?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-1F2937?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/REST%20API-1F2937?style=for-the-badge&logo=fastapi&logoColor=00C7B7" alt="REST API" />
+  <img src="https://img.shields.io/badge/JWT-1F2937?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/Firebase-1F2937?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Socket.io-1F2937?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io" />
+  <img src="https://img.shields.io/badge/MongoDB-1F2937?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-1F2937?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Prisma-1F2937?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+</p>
 
-**🎨 Design & UI**  
-Figma • Adobe Photoshop • Adobe Illustrator
-
-**🛠️ Dev Tools**  
-Git • GitHub • VS Code • Postman • Vercel • Netlify
+<p align="center">
+  <img src="https://img.shields.io/badge/Figma-1F2937?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
+  <img src="https://img.shields.io/badge/Photoshop-1F2937?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/Illustrator-1F2937?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00" alt="Illustrator" />
+  <img src="https://img.shields.io/badge/Git-1F2937?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-1F2937?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Postman-1F2937?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman" />
+  <img src="https://img.shields.io/badge/Vercel-1F2937?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Netlify-1F2937?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Netlify" />
+</p>
 
 ## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width ="25"> Skills Snapshot
 
@@ -80,24 +107,26 @@ Git • GitHub • VS Code • Postman • Vercel • Netlify
 
 ## <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width ="25"> Connect / Contact
 
-<p align="center">
-  Let’s connect for collaboration, frontend opportunities, and product-focused engineering work.
-</p>
-
-<p align="center">
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email%20Me-42B883?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-username/">
+<div align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin-username/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-42B883?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;
+  <a href="https://discord.com/users/your-discord-username" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-42B883?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>&nbsp;
+  <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-42B883?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>&nbsp;
+  <a href="https://your-portfolio-url.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-42B883?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio" />
+  </a>&nbsp;
+  <a href="https://github.com/moriyam-mohona" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-42B883?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://github.com/moriyam-mohona">
-    <img src="https://img.shields.io/badge/GitHub%20Profile-42B883?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
-  </a>
-</p>
+</div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration%20%7C%20Full--Time%20Roles-42B883?style=for-the-badge" alt="Open to Collaboration and Full-Time Roles" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration%20%7C%20Full--Time%20Opportunities-42B883?style=for-the-badge" alt="Open to Collaboration and Full-Time Opportunities" />
 </p>
 
 ## <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width ="25"> Profile Views
