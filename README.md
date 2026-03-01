@@ -73,19 +73,16 @@ From curiosity-driven beginnings to delivering production-ready applications, I 
 ## <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width ="25"> Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/khalid-hasan97" target="_blank">
+  <a href="https://www.linkedin.com/in/moriyam-mohona" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;
-  <a href="https://www.facebook.com/khalid.hasan9753" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>&nbsp;
-  <a href="https://discord.com/users/khalidhasan" target="_blank">
+  <a href="https://discord.com/users/moriyam_mohona" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>&nbsp;
-  <a href="mailto:khalid.hasan9753@gmail.com" target="_blank">
+  <a href="mailto:moriyammohona3@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>&nbsp;
-  <a href="http://khalidhasan.me" target="_blank">
+  <a href="https://moriyam-mohona.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
 </div>
