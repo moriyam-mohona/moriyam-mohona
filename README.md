@@ -1,37 +1,31 @@
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=42B883&random=false&width=520&height=40&lines=Hi%2C+I'm+Moriyam+Mohona;Senior+Frontend+Developer;Building+scalable+web+products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=42B883&random=false&width=520&height=40&lines=Hi%2C+I'm+Moriyam+Mohona;Frontend+Developer;Building+scalable+web+products" alt="Typing SVG" />
 </p>
 
 <p>
 From curiosity-driven beginnings to delivering production-ready applications, I focus on building clean, high-performance web products with strong user experience and maintainable architecture. I enjoy connecting frontend excellence with backend reliability to deliver complete, business-focused solutions.
 </p>
 
-## 👩‍💻 About You
-
-- **Name:** Moriyam Mohona
-- **Role:** Senior Frontend Developer
-- **Work Model:** Freelance / Product-focused engineering
-- **Specialty:** Modern React and Next.js applications with scalable architecture
-
-## 🎯 What You Specialize In
+## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc29jd3dyM3I4bTA2bGhtOXgzejdsd2ptd3BidHZ0eGJuNXl0OGRlZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width ="25"> What You Specialize In
 
 - Building performant, SEO-friendly, and accessible web applications
 - Designing reusable UI systems and component-driven frontend architecture
 - Integrating secure authentication, APIs, and real-time features
 - Translating product requirements into reliable, production-grade code
 
-## 🚧 What You're Currently Doing
+## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDB6cnR5Mmdjc2F5YzJ1ZmppN2c3anRkOThiYjhpajc5ZnIxOTFsMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fjOdkUskrUGyOZTHhQ/giphy.gif" width ="25"> Experience
 
-- Working on full-stack product features using **Next.js**, **TypeScript**, and **PostgreSQL**
-- Improving project architecture for long-term scalability and maintainability
+- Completed a software development internship
+- Working full-time as a Frontend Developer for **1.3+ years**
+- Building production-ready web features with modern frontend and backend tools
 
-## 📚 What You're Currently Learning
+## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="23"> What You're Currently Learning
 
 - Advanced **System Design** for large-scale web platforms
 - Stronger backend patterns for robust API and data-layer design
 - Deeper engineering problem-solving with a product mindset
 
-## 🧰 Tech Stack
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Tech Stack
 
 **🖥️ Frontend**  
 HTML • CSS • JavaScript • TypeScript • React.js • Next.js • Redux • TanStack Query • Tailwind CSS • Framer Motion • GSAP
@@ -48,14 +42,7 @@ Figma • Adobe Photoshop • Adobe Illustrator
 **🛠️ Dev Tools**  
 Git • GitHub • VS Code • Postman • Vercel • Netlify
 
-## 🌟 Featured Projects
-
-| Project                                       | Description                                                                                        | Tech                                 |
-| --------------------------------------------- | -------------------------------------------------------------------------------------------------- | ------------------------------------ |
-| [**Bittengo**](https://bittengo.com)          | Vehicle rental marketplace with role-based authentication, booking flows, and real-time state sync | Next.js, RTK Query, JWT, Mapbox      |
-| [**DustTrainers**](https://dustitrainers.com) | Race event platform with real-time chat, Stripe payments, and multi-role dashboard                 | Next.js, Socket.io, Stripe, NextAuth |
-
-## 🛠️ Skills Snapshot
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills Snapshot
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
@@ -67,7 +54,7 @@ Git • GitHub • VS Code • Postman • Vercel • Netlify
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,netlify" />
 </p>
 
-## 📈 Stats & Contributions
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Stats & Contributions
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=moriyam-mohona&theme=vue-dark&hide_border=true" alt="moriyam-mohona" />
@@ -76,7 +63,7 @@ Git • GitHub • VS Code • Postman • Vercel • Netlify
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moriyam-mohona&theme=vue" alt="GitHub Stats"/>
 </p>
 
-## 🤝 Connect / Contact
+## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc29jd3dyM3I4bTA2bGhtOXgzejdsd2ptd3BidHZ0eGJuNXl0OGRlZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width ="25"> Connect / Contact
 
 <p>
   <a href="mailto:your-email@example.com">
@@ -90,7 +77,7 @@ Git • GitHub • VS Code • Postman • Vercel • Netlify
   </a>
 </p>
 
-## 👀 Profile Views
+## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDB6cnR5Mmdjc2F5YzJ1ZmppN2c3anRkOThiYjhpajc5ZnIxOTFsMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fjOdkUskrUGyOZTHhQ/giphy.gif" width ="25"> Profile Views
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=moriyam-mohona&label=Profile%20views&color=42B883&style=flat" alt="moriyam-mohona" height="30"/>
