@@ -42,7 +42,7 @@ Figma • Adobe Photoshop • Adobe Illustrator
 **🛠️ Dev Tools**  
 Git • GitHub • VS Code • Postman • Vercel • Netlify
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills Snapshot
+## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width ="25"> Skills Snapshot
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
@@ -63,7 +63,7 @@ Git • GitHub • VS Code • Postman • Vercel • Netlify
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moriyam-mohona&theme=vue" alt="GitHub Stats"/>
 </p>
 
-## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc29jd3dyM3I4bTA2bGhtOXgzejdsd2ptd3BidHZ0eGJuNXl0OGRlZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width ="25"> Connect / Contact
+## <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width ="25"> Connect / Contact
 
 <p>
   <a href="mailto:your-email@example.com">
@@ -77,7 +77,7 @@ Git • GitHub • VS Code • Postman • Vercel • Netlify
   </a>
 </p>
 
-## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDB6cnR5Mmdjc2F5YzJ1ZmppN2c3anRkOThiYjhpajc5ZnIxOTFsMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fjOdkUskrUGyOZTHhQ/giphy.gif" width ="25"> Profile Views
+## <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width ="25"> Profile Views
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=moriyam-mohona&label=Profile%20views&color=42B883&style=flat" alt="moriyam-mohona" height="30"/>
