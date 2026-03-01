@@ -15,9 +15,21 @@ From curiosity-driven beginnings to delivering production-ready applications, I 
 
 ## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDB6cnR5Mmdjc2F5YzJ1ZmppN2c3anRkOThiYjhpajc5ZnIxOTFsMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fjOdkUskrUGyOZTHhQ/giphy.gif" width ="25"> Experience
 
-- Completed a software development internship
-- Working full-time as a Frontend Developer for **1.3+ years**
-- Building production-ready web features with modern frontend and backend tools
+### Full Stack Developer — **SM Technology (Full-time)**
+
+**December 2024 – Present**
+
+- Contributed to features across **10+ projects** within a cross-functional team of **13–14 members**, including app developers, UI/UX designers, and frontend/backend developers.
+- Built and maintained admin dashboards for mobile applications, enabling dynamic content and user management for clients.
+- Developed responsive frontend interfaces using **React.js**, **Next.js**, **TypeScript**, and **Redux**, collaborating closely with backend and mobile teams to ensure seamless API integration.
+- Delivered production-ready features across multiple simultaneous projects in an agile, fast-paced environment.
+
+### Jr. MERN Stack Developer (Intern) — **Orvido (Remote)**
+
+**September 2024 – November 2024**
+
+- Built a full-stack School Management System using the **MERN** stack, developing dynamic modules for teacher, student, and admin management with RESTful APIs and JWT authentication.
+- Collaborated within a team of **4–5** under senior guidance, contributing to end-to-end feature implementation, code reviews, and maintaining code quality standards.
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="23"> What You're Currently Learning
 
@@ -59,25 +71,33 @@ Git • GitHub • VS Code • Postman • Vercel • Netlify
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=moriyam-mohona&theme=vue-dark&hide_border=true" alt="moriyam-mohona" />
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moriyam-mohona&theme=vue" alt="GitHub Stats"/>
-</p>
+</p> -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=moriyam-mohona&bg_color=0d1117&color=42B883&line=42B883&point=9BE9A8&area=true&hide_border=true" alt="Contribution Graph"/>
 </p>
 
 ## <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width ="25"> Connect / Contact
 
-<p>
+<p align="center">
+  Let’s connect for collaboration, frontend opportunities, and product-focused engineering work.
+</p>
+
+<p align="center">
   <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-42B883?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email%20Me-42B883?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
   </a>
   <a href="https://www.linkedin.com/in/your-linkedin-username/">
     <img src="https://img.shields.io/badge/LinkedIn-42B883?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/moriyam-mohona">
-    <img src="https://img.shields.io/badge/GitHub-42B883?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub%20Profile-42B883?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration%20%7C%20Full--Time%20Roles-42B883?style=for-the-badge" alt="Open to Collaboration and Full-Time Roles" />
 </p>
 
 ## <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width ="25"> Profile Views
