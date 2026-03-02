@@ -20,7 +20,7 @@ From curiosity-driven beginnings to delivering production-ready applications, I 
 | <img src="https://img.shields.io/badge/Frontend-42B883?style=for-the-badge&logo=webcomponents.org&logoColor=white" alt="Frontend" /> | <img src="https://img.shields.io/badge/HTML5-1F2937?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1F2937?style=for-the-badge&logo=css&logoColor=1572B6" alt="CSS3" /> <img src="https://img.shields.io/badge/JavaScript-1F2937?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" /> <img src="https://img.shields.io/badge/TypeScript-1F2937?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" /> <img src="https://img.shields.io/badge/React-1F2937?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Next.js-1F2937?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/Redux-1F2937?style=for-the-badge&logo=redux&logoColor=764ABC" alt="Redux" /> <img src="https://img.shields.io/badge/TanStack%20Query-1F2937?style=for-the-badge&logo=reactquery&logoColor=FF4154" alt="TanStack Query" /> <img src="https://img.shields.io/badge/Tailwind%20CSS-1F2937?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" /> |
 | <img src="https://img.shields.io/badge/Backend-42B883?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Backend" />           | <img src="https://img.shields.io/badge/Node.js-1F2937?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" /> <img src="https://img.shields.io/badge/Express.js-1F2937?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /> <img src="https://img.shields.io/badge/REST%20API-1F2937?style=for-the-badge&logo=fastapi&logoColor=00C7B7" alt="REST API" /> <img src="https://img.shields.io/badge/JWT-1F2937?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" /> <img src="https://img.shields.io/badge/Firebase-1F2937?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase" /> <img src="https://img.shields.io/badge/Socket.io-1F2937?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io" />                                                                                                                                                                                                                                                                                                                                                                                       |
 | <img src="https://img.shields.io/badge/Database-42B883?style=for-the-badge&logo=postgresql&logoColor=white" alt="Database" />        | <img src="https://img.shields.io/badge/MongoDB-1F2937?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" /> <img src="https://img.shields.io/badge/PostgreSQL-1F2937?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Prisma-1F2937?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| <img src="https://img.shields.io/badge/Dev%20Tools-42B883?style=for-the-badge&logo=git&logoColor=white" alt="Dev Tools" />           | <img src="https://img.shields.io/badge/Figma-1F2937?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" /> <img src="https://img.shields.io/badge/Photoshop-1F2937?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" alt="Photoshop" /> <img src="https://img.shields.io/badge/Illustrator-1F2937?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00" alt="Illustrator" /> <img src="https://img.shields.io/badge/Git-1F2937?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-1F2937?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/Postman-1F2937?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman" /> <img src="https://img.shields.io/badge/Vercel-1F2937?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /> <img src="https://img.shields.io/badge/Netlify-1F2937?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Netlify" />                                                                                                                                                   |
+| <img src="https://img.shields.io/badge/Dev%20Tools-42B883?style=for-the-badge&logo=git&logoColor=white" alt="Dev Tools" />           | <img src="https://img.shields.io/badge/Figma-1F2937?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" /> <img src="https://img.shields.io/badge/Git-1F2937?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-1F2937?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/Postman-1F2937?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman" /> <img src="https://img.shields.io/badge/Vercel-1F2937?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /> <img src="https://img.shields.io/badge/Netlify-1F2937?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Netlify" />                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="23"> What I'm Currently Learning
 
@@ -30,21 +30,47 @@ From curiosity-driven beginnings to delivering production-ready applications, I 
 
 ## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDB6cnR5Mmdjc2F5YzJ1ZmppN2c3anRkOThiYjhpajc5ZnIxOTFsMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fjOdkUskrUGyOZTHhQ/giphy.gif" width ="25"> Experience
 
-### Full Stack Developer — **SM Technology (Full-time)**
-
-**December 2024 – Present**
-
-- Contributed to features across **10+ projects** within a cross-functional team of **13–14 members**, including app developers, UI/UX designers, and frontend/backend developers.
-- Built and maintained admin dashboards for mobile applications, enabling dynamic content and user management for clients.
-- Developed responsive frontend interfaces using **React.js**, **Next.js**, **TypeScript**, and **Redux**, collaborating closely with backend and mobile teams to ensure seamless API integration.
-- Delivered production-ready features across multiple simultaneous projects in an agile, fast-paced environment.
-
-### Jr. MERN Stack Developer (Intern) — **Orvido (Remote)**
-
-**September 2024 – November 2024**
-
-- Built a full-stack School Management System using the **MERN** stack, developing dynamic modules for teacher, student, and admin management with RESTful APIs and JWT authentication.
-- Collaborated within a team of **4–5** under senior guidance, contributing to end-to-end feature implementation, code reviews, and maintaining code quality standards.
+<table>
+  <thead>
+    <tr>
+      <th width="30%">Role & Company</th>
+      <th width="20%">Duration</th>
+      <th width="50%">Key Responsibilities & Achievements</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <strong>Full Stack Developer</strong><br/>
+        <a href="#">SM Technology</a><br/>
+        <em>Full-time</em>
+      </td>
+      <td>
+        <strong>December 2024 – Present</strong>
+      </td>
+      <td>
+        • Contributed to features across <strong>10+ projects</strong> within a cross-functional team of <strong>13–14 members</strong>, including app developers, UI/UX designers, and frontend/backend developers<br/><br/>
+        • Built and maintained admin dashboards for mobile applications, enabling dynamic content and user management for clients<br/><br/>
+        • Developed responsive frontend interfaces using <strong>React.js</strong>, <strong>Next.js</strong>, <strong>TypeScript</strong>, and <strong>Redux</strong>, collaborating closely with backend and mobile teams to ensure seamless API integration<br/><br/>
+        • Delivered production-ready features across multiple simultaneous projects in an agile, fast-paced environment
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Jr. MERN Stack Developer</strong><br/>
+        <a href="#">Orvido</a><br/>
+        <em>Intern (Remote)</em>
+      </td>
+      <td>
+        <strong>September 2024 – November 2024</strong>
+      </td>
+      <td>
+        • Built a full-stack School Management System using the <strong>MERN</strong> stack, developing dynamic modules for teacher, student, and admin management with RESTful APIs and JWT authentication<br/><br/>
+        • Collaborated within a team of <strong>4–5</strong> under senior guidance, contributing to end-to-end feature implementation, code reviews, and maintaining code quality standards
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <!-- ## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width ="25"> Skills Snapshot
 
