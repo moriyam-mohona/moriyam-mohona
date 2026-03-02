@@ -36,7 +36,11 @@ From curiosity-driven beginnings to delivering production-ready applications, I 
 
 <img src="https://img.shields.io/badge/Node.js-1F2937?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" /> <img src="https://img.shields.io/badge/Express.js-1F2937?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /> <img src="https://img.shields.io/badge/React-1F2937?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Next.js-1F2937?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/MongoDB-1F2937?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" /> <img src="https://img.shields.io/badge/PostgreSQL-1F2937?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/TypeScript-1F2937?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" /> <img src="https://img.shields.io/badge/Redux-1F2937?style=for-the-badge&logo=redux&logoColor=764ABC" alt="Redux" /> <img src="https://img.shields.io/badge/Socket.io-1F2937?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io" />
 
-Contributed to features across **10+ projects** within a cross-functional team of **13–14 members**, including app developers, UI/UX designers, and frontend/backend developers · Built and maintained admin dashboards for mobile applications, enabling dynamic content and user management for clients · Developed responsive frontend interfaces using **React.js**, **Next.js**, **TypeScript**, and **Redux**, collaborating closely with backend and mobile teams to ensure seamless API integration · Delivered production-ready features across multiple simultaneous projects in an agile, fast-paced environment
+<div align="justify">
+
+Contributed to **10+ projects** within a cross-functional team of **13–14 members**. Engineered full-stack web applications with responsive frontend interfaces and robust backend APIs, integrating RESTful services and database operations. Built production-ready features across multiple simultaneous projects in an agile environment.
+
+</div>
 
 ---
 
@@ -46,7 +50,11 @@ Contributed to features across **10+ projects** within a cross-functional team o
 
 <img src="https://img.shields.io/badge/MongoDB-1F2937?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" /> <img src="https://img.shields.io/badge/Express.js-1F2937?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /> <img src="https://img.shields.io/badge/React-1F2937?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Node.js-1F2937?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" /> <img src="https://img.shields.io/badge/JWT-1F2937?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
 
-Built a full-stack School Management System using the **MERN** stack, developing dynamic modules for teacher, student, and admin management with RESTful APIs and JWT authentication · Collaborated within a team of **4–5** under senior guidance, contributing to end-to-end feature implementation, code reviews, and maintaining code quality standards
+<div align="justify">
+
+Built a full-stack School Management System using the **MERN** stack with dynamic modules for teacher, student, and admin management. Collaborated in a team of **4–5** on feature implementation and code reviews.
+
+</div>
 
 <!-- ## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width ="25"> Skills Snapshot
 
