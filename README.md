@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=600&color=42B883&random=false&width=520&height=40&lines=I build. I ship. I iterate.;Turning ideas into web products;10%2B projects shipped in production;Frontend precision · Backend reliability;Always building. Always learning." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=600&color=42B883&random=false&width=520&height=40&lines=I+build.+I+ship.+I+iterate.;Turning+ideas+into+web+products;10%2B+projects+shipped+in+production;Frontend+precision+%E2%80%A2+Backend+reliability;Always+building.+Always+learning." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -22,6 +22,10 @@ Full-stack developer building production-ready web applications with React, Next
     <img src="https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
 </div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=moriyam-mohona&label=Profile%20views&color=42B883&style=flat" alt="moriyam-mohona" height="28"/>
+</p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Tech Stack
 
@@ -69,17 +73,16 @@ Built a full-stack School Management System using the **MERN** stack with dynami
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=moriyam-mohona&bg_color=0d1117&color=42B883&line=42B883&point=9BE9A8&area=true&hide_border=true" alt="Contribution Graph"/>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=moriyam-mohona&show_icons=true&theme=vue-dark&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moriyam-mohona&layout=compact&theme=vue-dark&hide_border=true" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=moriyam-mohona&show_icons=true&theme=vue-dark&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moriyam-mohona&layout=compact&theme=vue-dark&hide_border=true" alt="Top Languages" />
+</p>
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="23"> What I'm Currently Learning
 
 - Advanced **System Design** for large-scale web platforms
 - Stronger backend patterns for robust API and data-layer design
 - Deeper engineering problem-solving with a product mindset
-
----
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=moriyam-mohona&label=Profile%20views&color=42B883&style=flat" alt="moriyam-mohona" height="30"/>
-</p>
