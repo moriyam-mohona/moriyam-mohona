@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=600&color=42B883&random=false&width=520&height=40&lines=I+build.+I+ship.+I+iterate.;Turning+ideas+into+web+products;Frontend+precision+%E2%80%A2+Backend+reliability;Always+building.+Always+learning." alt="Typing SVG" />
 </p> -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=600&color=42B883&random=false&width=520&height=40&lines=I+build.+I+ship.+I+iterate.;Turning+ideas+into+web+products;10%2B+projects+shipped+in+production;Frontend+precision+%C2%B7+Backend+reliability;Always+building.+Always+learning." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=600&color=42B883&random=false&width=520&height=40&lines=I+build.+I+ship.+I+iterate.;Turning+ideas+into+web+products;Frontend+precision+%C2%B7+Backend+reliability;Always+building.+Always+learning" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -11,10 +11,10 @@
   Constantly learning. Consistently shipping.
 </p>
 
-  <p align="center">
+  <!-- <p align="center">
   Code is the craft. Shipping is the goal.<br/>
   Somewhere between design and deployment — that's where I live.
-</p>
+</p> -->
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width ="30"> Connect With Me
 
@@ -81,16 +81,6 @@ Built a full-stack School Management System using the **MERN** stack with dynami
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=moriyam-mohona&bg_color=0d1117&color=42B883&line=42B883&point=9BE9A8&area=true&hide_border=true" alt="Contribution Graph"/>
-</p>
-
-<p align="center">
-<!-- GitHub Stats -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moriyam-mohona&theme=vue" />
-</p>
-
-<p align="center">
-<!-- Top Languages -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moriyam-mohona&theme=vue" />
 </p>
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="23"> What I'm Currently Learning
