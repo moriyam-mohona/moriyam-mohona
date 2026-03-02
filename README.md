@@ -1,9 +1,19 @@
+<!-- <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=600&color=42B883&random=false&width=520&height=40&lines=I+build.+I+ship.+I+iterate.;Turning+ideas+into+web+products;Frontend+precision+%E2%80%A2+Backend+reliability;Always+building.+Always+learning." alt="Typing SVG" />
+</p> -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=600&color=42B883&random=false&width=520&height=40&lines=I+build.+I+ship.+I+iterate.;Turning+ideas+into+web+products;10%2B+projects+shipped+in+production;Frontend+precision+%E2%80%A2+Backend+reliability;Always+building.+Always+learning." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=600&color=42B883&random=false&width=520&height=40&lines=I+build.+I+ship.+I+iterate.;Turning+ideas+into+web+products;10%2B+projects+shipped+in+production;Frontend+precision+%C2%B7+Backend+reliability;Always+building.+Always+learning." alt="Typing SVG" />
 </p>
 
 <p align="center">
-Full-stack developer building production-ready web applications with React, Next.js, and Node.js. I create scalable solutions that connect powerful frontends with robust backends.
+  Full-stack developer with a sharp focus on clean architecture and real-world reliability.<br/>
+  Detail-driven across every layer — from polished interfaces to robust backend systems.<br/>
+  Constantly learning. Consistently shipping.
+</p>
+
+  <p align="center">
+  Code is the craft. Shipping is the goal.<br/>
+  Somewhere between design and deployment — that's where I live.
 </p>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width ="30"> Connect With Me
@@ -74,11 +84,13 @@ Built a full-stack School Management System using the **MERN** stack with dynami
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moriyam-mohona&show_icons=true&theme=vue-dark&hide_border=true" alt="GitHub Stats" />
+<!-- GitHub Stats -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moriyam-mohona&theme=vue" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moriyam-mohona&layout=compact&theme=vue-dark&hide_border=true" alt="Top Languages" />
+<!-- Top Languages -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moriyam-mohona&theme=vue" />
 </p>
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="23"> What I'm Currently Learning
