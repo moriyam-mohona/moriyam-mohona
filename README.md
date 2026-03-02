@@ -80,7 +80,7 @@ Built a full-stack School Management System using the **MERN** stack with dynami
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=moriyam-mohona&bg_color=0d1117&color=42B883&line=42B883&point=9BE9A8&area=true&hide_border=true" alt="Contribution Graph"/>
 </p>
 
-## <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width ="25"> Connect With Me
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width ="30"> Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/moriyam-mohona" target="_blank">
