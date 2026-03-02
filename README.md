@@ -85,5 +85,7 @@ Built a full-stack School Management System using the **MERN** stack with dynami
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="23"> What I'm Currently Learning
 
-<p>Diving deeper into **System Design** and scalable backend architecture —
-building stronger mental models for how large systems are structured and maintained.</p>
+<div>
+Diving deeper into System Design and scalable backend architecture —
+building stronger mental models for how large systems are structured and maintained.
+</div>
