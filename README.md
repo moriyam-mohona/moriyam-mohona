@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=600&color=42B883&random=false&width=520&height=40&lines=Full-Stack+Web+Developer;Building+scalable+web+products;Turning+ideas+into+reality;Code+%E2%80%A2+Create+%E2%80%A2+Ship" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=600&color=42B883&random=false&width=520&height=40&lines=I build. I ship. I iterate.;Turning ideas into web products;10%2B projects shipped in production;Frontend precision · Backend reliability;Always building. Always learning." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -68,6 +68,9 @@ Built a full-stack School Management System using the **MERN** stack with dynami
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=moriyam-mohona&bg_color=0d1117&color=42B883&line=42B883&point=9BE9A8&area=true&hide_border=true" alt="Contribution Graph"/>
 </p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=moriyam-mohona&show_icons=true&theme=vue-dark&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moriyam-mohona&layout=compact&theme=vue-dark&hide_border=true" />
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="23"> What I'm Currently Learning
 
