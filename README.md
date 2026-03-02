@@ -1,8 +1,8 @@
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=42B883&random=false&width=520&height=40&lines=Hi%2C+I'm+Moriyam+Mohona;Frontend+Developer;Building+scalable+web+products" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=42B883&random=false&width=520&height=40&lines=Full-Stack+Web+Developer;Building+scalable+web+products;React+·+Next.js+·+Node.js;Turning+ideas+into+reality;Code+·+Create+·+Ship" alt="Typing SVG" />
 </p>
 
-<p>
+<p align="center">
 From curiosity-driven beginnings to delivering production-ready applications, I focus on building clean, high-performance web products with strong user experience and maintainable architecture. I enjoy connecting frontend excellence with backend reliability to deliver complete, business-focused solutions.
 </p>
 
@@ -80,7 +80,7 @@ Built a full-stack School Management System using the **MERN** stack with dynami
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=moriyam-mohona&bg_color=0d1117&color=42B883&line=42B883&point=9BE9A8&area=true&hide_border=true" alt="Contribution Graph"/>
 </p>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width ="30"> Connect With Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width ="30"> Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/moriyam-mohona" target="_blank">
