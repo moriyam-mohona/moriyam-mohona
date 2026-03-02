@@ -6,8 +6,7 @@
 </p>
 
 <p align="center">
-  Full-stack developer with a sharp focus on clean architecture and real-world reliability.<br/>
-  Detail-driven across every layer — from polished interfaces to robust backend systems.<br/>
+  Detail-driven full-stack developer — from polished UI to robust backend.<br/>
   Constantly learning. Consistently shipping.
 </p>
 
