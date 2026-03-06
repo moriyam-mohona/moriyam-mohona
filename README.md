@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  Detail-driven full-stack developer — from polished UI to robust backend.<br/>
+  Detail-driven Full-Stack Developer — from polished UI to robust backend.<br/>
   Constantly learning. Consistently shipping.
 </p>
 
